@@ -27,6 +27,21 @@ rob, and much more there is also a leveling system all at your controll<br></spa
 THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE BUGS AND LACK OF FEATURES
 ```
 
+## Tracker
+* Todo
+  * Jobs
+  * Crime System
+  * Warning system
+* Done
+  * Currency
+  * Shop
+  * Backpack
+  * activity system
+  * message logger
+  * Education
+  * Maths questions
+
+
 ## Features
 * Economy Features
   * Career
