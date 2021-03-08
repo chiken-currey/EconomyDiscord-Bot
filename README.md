@@ -24,6 +24,7 @@ rob, and much more there is also a leveling system all at your controll<br></spa
 
 ## Update
 ```console
+THIS PROJECT IS UNDER DEVELOPMENT FROM 08/03/2021
 THIS PROJECT IS IN DEVELOPMENT AND NOT FULLY FEATURED, THIS MEANS THERE COULD BE BUGS AND LACK OF FEATURES
 ```
 
