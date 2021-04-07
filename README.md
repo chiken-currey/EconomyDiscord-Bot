@@ -1,3 +1,6 @@
+<h2 class="notification">Version 2 coming soon</h2>
+
+
 
 <p align=center>
 
