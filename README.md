@@ -1,6 +1,4 @@
-<h2 class="notification">Version 2 coming soon</h2>
-
-
+<a href="https://github.com/NotReeceHarris/EconomyDiscord-Bot/tree/version-2"><h2>Version 2 coming soon</h2></a>
 
 <p align=center>
 
