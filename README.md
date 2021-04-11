@@ -7,9 +7,9 @@ This bot uses sqlite3 so unless you know how to query sql or modify the data cha
 # Features
 * Economy Features
   * Career
-    - [ ]Education
-    - [ ]Jobs
-    - [ ]Maths questions
+    - [ ] Education
+    - [ ] Jobs
+    - [ ] Maths questions
   * Currency
     * Wallet
     * Bank
