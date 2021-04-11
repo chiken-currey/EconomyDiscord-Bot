@@ -11,26 +11,26 @@ This bot uses sqlite3 so unless you know how to query sql or modify the data cha
     - [ ] Jobs
     - [ ] Maths questions
   * Currency
-    * Wallet
-    * Bank
+    - [x] Wallet
+    - [x] Bank
   * Crime system
-    * Rob
-    * Crime heat
-    * Murder
+    - [ ] Rob
+    - [ ] Crime heat
+    - [ ] Murder
   * <a href="#item-shop">Shop</a>
-    * <a href="#adding-to-the-item-shop">Items</a>
-    * 24 hour resets
+    - [x] <a href="#adding-to-the-item-shop">Items</a>
+    - [x] 24 hour resets
 * Moderation Systems
   * Utilities
-    * <a href="#ping">Ping</a>
+    - [x] <a href="#ping">Ping</a>
   * Warning system
-    * Roleplay Identity (Hidden within the roleplay aspect)
+    - [ ] Roleplay Identity (Hidden within the roleplay aspect)
   * Activity System
-    * Message counter
-  * Message logger
+    - [x] Message counter
+    - [ ] Message logger
 * Customization 
-  * <a href="#status-variables">Status variables</a>
-  * <a href="#level-variables">Level variables</a>
+  - [x] <a href="#status-variables">Status variables</a>
+  - [x] <a href="#level-variables">Level variables</a>
 
 # Customization
 
