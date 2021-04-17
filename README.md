@@ -3,8 +3,8 @@
 
 ## SQLITE 3
 This bot uses sqlite3 so unless you know how to query sql or modify the data changing users xp/level/money etc will come with difficulty
-
-# Features
+<summary> <b> <samp> # Features</samp></b></summary>
+<samp>
 * Economy Features
   * Career
     - [x] Education
@@ -30,7 +30,7 @@ This bot uses sqlite3 so unless you know how to query sql or modify the data cha
 * Customization 
   - [x] <a href="#status-variables">Status variables</a>
   - [x] <a href="#level-variables">Level variables</a>
-
+</samp>
 # Customization
 
 ## Status variables
