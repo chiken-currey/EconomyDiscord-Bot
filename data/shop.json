@@ -1,0 +1,68 @@
+{
+  "time": 1618169960.8491263,
+  "content": [
+    {
+      "id": 0,
+      "name": "House",
+      "emoji": ":house:",
+      "price": 15447,
+      "rarity": 0.6473748948015796
+    },
+    {
+      "id": 1,
+      "name": "Apple",
+      "emoji": ":apple:",
+      "price": 5,
+      "rarity": 1.0
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "emoji": ":banana:",
+      "price": 9,
+      "rarity": 0.5555555555555556
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "emoji": ":apple:",
+      "price": 6,
+      "rarity": 0.8333333333333334
+    },
+    {
+      "id": 4,
+      "name": "Banana",
+      "emoji": ":banana:",
+      "price": 8,
+      "rarity": 0.625
+    },
+    {
+      "id": 5,
+      "name": "Apple",
+      "emoji": ":apple:",
+      "price": 10,
+      "rarity": 0.5
+    },
+    {
+      "id": 6,
+      "name": "Skateboard",
+      "emoji": ":skateboard:",
+      "price": 47,
+      "rarity": 0.425531914893617
+    },
+    {
+      "id": 7,
+      "name": "Mansion",
+      "emoji": ":classical_building:",
+      "price": 243264,
+      "rarity": 0.41107603262299397
+    },
+    {
+      "id": 8,
+      "name": "Banana",
+      "emoji": ":banana:",
+      "price": 10,
+      "rarity": 0.5
+    }
+  ]
+}

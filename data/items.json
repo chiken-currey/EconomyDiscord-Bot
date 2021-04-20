@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "name": "Apple",
+        "emoji": ":apple:",
+        "price": {
+            "start": 5,
+            "end": 10
+        }
+    },
+    {
+        "id": 1,
+        "name": "Banana",
+        "emoji": ":banana:",
+        "price": {
+            "start": 5,
+            "end": 10
+        }
+    },
+    {
+        "id": 2,
+        "name": "Skateboard",
+        "emoji": ":skateboard:",
+        "price": {
+            "start": 20,
+            "end": 50
+        }
+    },
+    {
+        "id": 3,
+        "name": "House",
+        "emoji": ":house:",
+        "price": {
+            "start": 10000,
+            "end": 20000
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mansion",
+        "emoji": ":classical_building:",
+        "price": {
+            "start": 100000,
+            "end": 500000
+        }
+    },
+    {
+        "id": 5,
+        "name": "Private Jet",
+        "emoji": ":airplane:",
+        "price": {
+            "start": 500000,
+            "end": 1000000
+        }
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "token": "ODI5NDc1ODQzOTEwNjY0Mjg0.YG4rlA.Sn4eZ2PTSH6n90rozVsh0hUaOFo",
+    "prefix": "!",
+    "status": "$total_members$",
+    "moneysymbl": "$",
+    "lvlmsg": "Congrats on leveling up your now level $level$",
+    "colour": [165, 3, 252],
+    "xpmsg": 2,
+    "marksforgrade": 1,
+    "xplvl": 10,
+    "spamtime": 1,
+    "allowswear": false
+}

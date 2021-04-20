@@ -1,0 +1,1504 @@
+{
+  "questions":[
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Vehicles",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Japan was part of the Allied Powers during World War I.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Comics",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In the comic book &quot;Archie&quot;, Betty is friends with Veronica because she is rich.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In the game &quot;Melty Blood Actress Again Current Code&quot;, you can enter Blood Heat mode in Half Moon style.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Mythology",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Throughout the entirety of &quot;Dragon Ball Z&quot;, Goku only kills two characters: a miniboss named Yakon and Kid Buu.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Film",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The Battle of Trafalgar took place on October 23rd, 1805",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Switzerland has four national languages, English being one of them.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Politics",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Joko Widodo has appeared in the cover of a TIME magazine.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The band STRFKR was also briefly known as Pyramiddd.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Books",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Harry Potter was born on July 31st, 1980.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The chemical element Lithium is named after the country of Lithuania.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The USS Missouri (BB-63) last served in the Korean War.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Druid is a mage class in &quot;Log Horizon&quot;.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The Klingon home planet is Qo&#039;noS.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Board Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Celebrities",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In Topology, the complement of an open set is a closed set.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The value of one Calorie is different than the value of one calorie.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Film",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Politics",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The singer Billie Holiday was also known as &quot;Lady Day&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The character Plum from &quot;No Game No Life&quot; is a girl.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Vehicles",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The term &quot;GTO&quot; was originated by Ferrari?",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The video game &quot;Fuel&quot; has an open world that is 5,560 square miles?",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Art",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Film",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Musicals & Theatres",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"hard",
+      "question":"In The Witcher 3, the Zoltan Chivay Gwent card can be found under the Hanged Man&#039;s Tree.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"AMC&#039;s &quot;The Walking Dead&quot;, Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The two atomic bombs dropped on Japan by the United States in August 1945 were named &#039;Little Man&#039; and &#039;Fat Boy&#039;.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Coca-Cola&#039;s original colour was green.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Israel is 7 hours ahead of New York.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Vehicles",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Japanese Shinkansen beat the French TGV&#039;s speed record for fastest electric rail train.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The sum of all the numbers on a roulette wheel is 666.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"There are 86400 seconds in a day.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Southeast Asian island of Borneo is politically divided among 3 countries.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Film",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Art",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Mythology",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"According to Norse mythology, Loki is a mother.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The television show Doctor Who first aired in 1963.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In 1967, a magazine published a story about extracting hallucinogenic chemicals from bananas to raise moral questions about banning drugs.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Gadgets",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Film",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Mythology",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In Greek mythology, Hera is the goddess of harvest.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In the periodic table, Potassium&#039;s symbol is the letter K.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Politics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"George W. Bush lost the popular vote in the 2004 United States presidential election.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Albert Einstein had trouble with mathematics when he was in school.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"E = MC3",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Oxford University is older than the Aztec Empire. ",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In Monster Hunter Generations, guild style is a type of hunting style.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Like his character in &quot;Parks and Recreation&quot;, Aziz Ansari was born in South Carolina.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Zero factorial is equal to zero. ",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The ADAM collecters in the Bioshock series are known as Little Sisters.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Board Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In &quot;League of Legends&quot;, there exists four different types of Dragon.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Animals",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Finnish Lapphund dogs were used for herding reindeer.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Hidden in the files for &quot;Mario Kart Arcade GP&quot; is a picture of the Beslan school hostage crisis.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Cartoon & Animations",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Nutcracker Suite was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"A Facebook campaign placed Rage Against The Machine&#039;s &quot;Killing in the Name Of&quot; as the UK Christmas Number 1 in 2009.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Art",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Politics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Jeb Bush was elected as Governor of Florida in 2002, starting his political career.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"AMC&#039;s &quot;The Walking Dead&quot;, Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Doppler effect applies to light.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Animals",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Animals",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"An octopus can fit through any hole larger than its beak.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Celebrities",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Michael Jackson had a pet python named &lsquo;Crusher&rsquo;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Coca-Cola&#039;s original colour was green.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The M41 Walker Bulldog remains in service in some countries to this day.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The vapor produced by e-cigarettes is actually water.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Vehicles",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Japanese Shinkansen beat the French TGV&#039;s speed record for fastest electric rail train.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The sum of all the numbers on a roulette wheel is 666.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science: Computers",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"MacOS is based on Linux.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The television show Doctor Who first aired in 1963.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The French word to travel is &quot;Travail&quot;",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In 1967, a magazine published a story about extracting hallucinogenic chemicals from bananas to raise moral questions about banning drugs.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Japanese Anime & Manga",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The anime Attack on Titan was directed by Tetsur\u014d Araki, the same person who directed the anime Highschool of the Dead.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Sports",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Olympics tennis court is a giant green screen.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"You could walk from Norway to North Korea while only passing through Russia.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"General Knowledge",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The French word for &quot;glass&quot; is &quot;glace&quot;.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Mythology",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In Greek mythology, Hera is the goddess of harvest.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science & Nature",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In the periodic table, Potassium&#039;s symbol is the letter K.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"History",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The Hundred Years&#039; War was fought for more than a hundred years.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his &quot;Mothership&quot; set piece for one night only.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Vehicles",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Bugatti was an Italian car manufacturer.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Mortal Kombat was almost based on Jean-Claude Van Damme movie.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Cartoon & Animations",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Nickelodeon rejected the pilot to Adventure Time.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"David Baszucki was a co-founder of ROBLOX Corporation.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Politics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Geography",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Norway has a larger land area than Sweden.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Television",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Sports",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In &quot;Call Of Duty: Zombies&quot;, you can upgrade the &quot;Apothicon Servant&quot; in the &quot;Shadows Of Evil&quot; map.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Science: Mathematics",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"You can square root a negative number with an imaginary number &quot;i&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Cartoon & Animations",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Entertainment: Music",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"A Facebook campaign placed Rage Against The Machine&#039;s &quot;Killing in the Name Of&quot; as the UK Christmas Number 1 in 2009.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Sports",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"ATP tennis hosted several tournaments on carpet court before being replaced to reduce injuries.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Cartoon & Animations",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In &quot;Avatar: The Last Airbender&quot; and &quot;The Legend of Korra&quot;, Lavabending is a specialized bending technique of Firebending.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    },
+    {
+      "category":"Vehicles",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.",
+      "correct_answer":"True",
+      "incorrect_answers":[
+        "False"
+      ]
+    },
+    {
+      "category":"Entertainment: Video Games",
+      "type":"boolean",
+      "difficulty":"medium",
+      "question":"In the Resident Evil series, Leon S. Kennedy is a member of STARS.",
+      "correct_answer":"False",
+      "incorrect_answers":[
+        "True"
+      ]
+    }
+  ]
+}
