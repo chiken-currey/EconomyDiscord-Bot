@@ -1,4 +1,4 @@
-# coming soon
+# STILL IN DEVELOPMENT (DO NOT USE unless you are going to change the code)
 # EcoBotv2
 
 ## SQLITE 3
