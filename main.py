@@ -9,7 +9,7 @@
 Language(s) : Python, SQL, JSON               
 Licensed    : Not Licensed                    
 Contributes : Reece Harris                    
-'''                                           
+'''                                            
 
 import discord
 from discord.utils import get
