@@ -1,7 +1,7 @@
 # NotReeceHarris/🤖EcoBotV2 
 ###### _STILL IN DEVELOPMENT (DO NOT USE unless you are going to change the code)_
 
-[![CodeQL](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/blob/version-2/LICENSE) ![Version](https://img.shields.io/badge/Version-2.0-blue.svg) [![Python](https://img.shields.io/badge/python-3-green.svg)](https://www.python.org/downloads/) [![DiscordPY](https://img.shields.io/badge/discord.py-1.6.0-blue.svg)](https://github.com/Rapptz/discord.py)
+[![CodeQL](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/blob/version-2/LICENSE) ![Version](https://img.shields.io/badge/Version-2.0-blue.svg) | [![Python](https://img.shields.io/badge/python-3-green.svg)](https://www.python.org/downloads/) [![DiscordPY](https://img.shields.io/badge/discord.py-1.6.0-blue.svg)](https://github.com/Rapptz/discord.py)
 ---
 
 ## SQLITE 3
