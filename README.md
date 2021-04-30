@@ -1,6 +1,7 @@
-# NotReeceHarris/🤖EcoBotV2
-STILL IN DEVELOPMENT (DO NOT USE unless you are going to change the code)
+# NotReeceHarris/🤖EcoBotV2 
+###### _STILL IN DEVELOPMENT (DO NOT USE unless you are going to change the code)_
 
+[![CodeQL](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/actions/workflows/codeql-analysis.yml) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NotReeceHarris/EconomyDiscord-Bot/blob/version-2/LICENSE) ![Version](https://img.shields.io/badge/Version-2.0-blue.svg)
 ---
 
 ## SQLITE 3
