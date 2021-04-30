@@ -1,5 +1,7 @@
-# STILL IN DEVELOPMENT (DO NOT USE unless you are going to change the code)
-# EcoBotv2
+# NotReeceHarris/🤖EcoBotV2
+STILL IN DEVELOPMENT (DO NOT USE unless you are going to change the code)
+
+---
 
 ## SQLITE 3
 This bot uses sqlite3 so unless you know how to query sql or modify the data changing users xp/level/money etc will come with difficulty
