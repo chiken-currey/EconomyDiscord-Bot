@@ -1,13 +1,13 @@
 {
-    "token": "(--INSERT--)",
-    "prefix": "!",
+    "token": "(ODQ0NTk1MDU2OTcxMDg3ODgz.YKUscQ.uBVqV7_x8wtH--kHshQWttExs8Y)",
+    "prefix": "-",
     "status": "$total_members$",
-    "moneysymbl": "$",
-    "lvlmsg": "Congrats on leveling up your now level $level$",
+    "moneysymbl": "-",
+    "lvlmsg": "You have raised your power level to $level$",
     "colour": [165, 3, 252],
-    "xpmsg": 2,
+    "xpmsg": 5,
     "marksforgrade": 1,
-    "xplvl": 10,
-    "spamtime": 1,
-    "allowswear": false
+    "xplvl": 100,
+    "spamtime": 10,
+    "allowswear": true
 }
