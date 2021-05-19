@@ -1,10 +1,10 @@
 {
-    "token": "(ODQ0NTk1MDU2OTcxMDg3ODgz.YKUscQ.str8DD2OQH3Ri3RwaNBHUjKIclg)",
+    "token": "(ODQ0NTk1MDU2OTcxMDg3ODgz.YKUscQ.OtSWVnVqFi6-xpSufjGb39qDfH0)",
     "prefix": "-",
     "status": "$total_members$",
     "moneysymbl": "-",
     "lvlmsg": "You have raised your power level to $level$",
-    "colour": [165, 3, 252],
+    "colour": [179, 230, 255],
     "xpmsg": 5,
     "marksforgrade": 1,
     "xplvl": 100,
