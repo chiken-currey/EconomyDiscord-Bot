@@ -1,5 +1,5 @@
 {
-    "token": "()",
+    "token": "(DISCORD_TOKEN)",
     "prefix": "-",
     "status": "$total_members$",
     "moneysymbl": "-",
