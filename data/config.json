@@ -11,3 +11,4 @@
     "spamtime": 10,
     "allowswear": true
 }
+client.login(config.token);
